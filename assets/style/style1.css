@@ -1,0 +1,30 @@
+body {
+	background: black;
+}
+
+
+.titlepage1 {
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+	font-size: 22px;
+}
+
+.titlepage2 {
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+	font-size: 15px;
+}
+
+input {
+	border: 0;
+	padding: 10px;
+	font-size: 18px;
+	margin: 0 auto;
+}
+
+input[type="submit"] {
+	background: red;
+	color: white;
+}

@@ -1,0 +1,110 @@
+header {
+	text-align: center;
+	background: url("../image/bridge.png");
+	max-width: 100%;
+	color: white;
+	padding: -10px;
+	font-family: "PT Sans", helvetica, sans-serif;
+}
+
+body {
+	margin: 0;
+	font-family: "helvetica neue";
+	display: block;
+}
+
+a {
+	color: white;
+}
+
+h1 {
+	font-size: 70px;
+	padding-bottom: -100px;
+}
+
+h2 {
+	text-align: center;
+	font-size: 50px;
+	padding-bottom: -50px;
+	font-family: "PT Sans", helvetica, sans-serif;
+}
+
+h6 {
+	text-align: center;
+	font-size: 15px; 
+	padding-top: -100px;
+}
+img {
+	margin: 40px 0 0 0;
+	border-radius: 100%;
+}
+
+ul {
+	padding: 0px;
+	background: rgba(0,0,0,0.5);
+	font-family: helvetica;
+}
+
+li {
+	display: inline;
+	padding: 0 10px 0 10px;
+}
+
+article {
+	max-width: 100%;
+	padding: 100px;
+	
+	margin: 0 auto;
+	color: #efe6dd;
+	font-family: "PT Serif";
+}
+
+p {
+	font-family: "PT Serif";
+	font-size: 17px;
+}
+
+.mainpage1 {
+	max-width: 100%;
+	height: 590px;
+	margin: 0 auto;
+	background: url("assets/image/bridge.png");
+	background: -webkit-linear-gradient(top, rgba(0,0,0,1), rgba(0,0,0,.4));
+}
+
+.kokology1 {
+	background: #C2786C;
+}
+
+.article1 {
+	background: #8B564D;
+	
+}
+
+.kokology2 {
+	background: #AAC1C2;
+}
+
+.article2 {
+	background: #7ebdc2;
+}
+
+.kokology3 {
+	background: #bca67a;
+}
+
+.article3 {
+	background: #7F7052;
+}
+
+.aboutme {
+	background: (0,0,0);
+	color: black;
+	max-width: 100%;
+	height: 390px;
+	padding: 10px;
+}
+
+#heading {
+	color: black;
+}
